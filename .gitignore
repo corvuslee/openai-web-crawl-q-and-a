@@ -1,5 +1,6 @@
-# Specific to this repo
+# Crawled data
 text/*
+processed/*
 
 # Mac
 .DS_Store
